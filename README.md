@@ -5,7 +5,7 @@
 
 <br>
 
-<p align="center"><a href="https://mfclement.itch.io" target="_blank">Check this game at itch.io here!</a></p>
+<p align="center"><a href="https://mclement.itch.io" target="_blank">Check this game at itch.io here!</a></p>
 
 <br>
 <hr>
